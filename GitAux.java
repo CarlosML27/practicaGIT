@@ -24,4 +24,9 @@ public class GitAux {
     public void metodoProyecto(){
         System.out.println("¡Hola!");
     }
+
+    public void testGitAux(){
+	// Método de la rama testing
+        System.out.println("Método de testing");
+    }    
 }
